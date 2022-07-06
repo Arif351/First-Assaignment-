@@ -150,21 +150,21 @@ body {}
 .block4 {
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
-    margin-left: 5%;
+    margin-left: 10%;
 }
 
 .p4 {
     font-family: 'Kanit', sans-serif;
     font-size: 20px;
     padding-right: 50%;
-    margin-left: 5%;
+    margin-left: 10%;
 }
 
 .img4 {
     width: 450px;
     border-radius: 5px;
     padding-right: 50%;
-    margin-right: 5%;
+    margin-right: 10%;
 }
 
 .don {
@@ -175,5 +175,36 @@ body {}
     background-color: rgb(218, 5, 5);
     padding: 1px 15px 1px;
     border-radius: 7px;
-    margin-left: 5%;
+    margin-left: 10%;
+}
+
+.section6 {
+    display: flex;
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.head3 {
+    text-align: right;
+}
+
+.block5 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    margin-right: 10%;
+}
+
+.p5 {
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+    padding-left: 50%;
+    margin-left: 10%;
+}
+
+.img5 {
+    width: 450px;
+    border-radius: 5px;
+    padding-right: 50%;
+    margin-left: 10%;
 }
