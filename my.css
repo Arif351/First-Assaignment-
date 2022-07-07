@@ -164,13 +164,13 @@ body {}
     width: 450px;
     border-radius: 5px;
     padding-right: 50%;
-    margin-right: 10%;
+    margin-right: 50%;
 }
 
 .don {
     color: white;
     font-family: 'Kanit', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     text-decoration: none;
     background-color: rgb(218, 5, 5);
     padding: 1px 15px 1px;
@@ -185,26 +185,57 @@ body {}
     margin-right: 20px;
 }
 
-.head3 {
-    text-align: right;
-}
-
 .block5 {
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
-    margin-right: 10%;
+    text-align: right;
+    margin-right: 20%;
+    padding-left: 30%;
 }
 
 .p5 {
     font-family: 'Kanit', sans-serif;
+    text-align: right;
     font-size: 20px;
-    padding-left: 50%;
-    margin-left: 10%;
+    padding-left: 30%;
+    margin-right: 20%;
 }
 
 .img5 {
-    width: 450px;
+    width: 500px;
     border-radius: 5px;
     padding-right: 50%;
     margin-left: 10%;
+}
+
+.don1 {
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(218, 5, 5);
+    padding: 1px 15px 1px;
+    border-radius: 7px;
+    margin-left: 55%;
+}
+
+.tr {
+    color: rgb(201, 12, 12);
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    background-color: black;
+    height: 140px;
+    margin-top: 30px;
+    padding-top: 50px;
+}
+
+#NNN {
+    color: white;
+    text-align: center;
+}
+
+#span {
+    color: white;
+    font-size: 20px;
 }
